@@ -8,7 +8,7 @@
 
 > In your own words, describe what the 6522 tester code does.
 
-`TODO`
+It latches data! So it holds the most previous data inputted into the 0x6000 address. It "latches" AKA holds that data until it is overwritten. In a way, it is a way for the chip to communicate to us, to make reading it easier. (this will be changed.)
 
 > There are some addresses dedicated to using the interface. What are they and what do they seem to do?
 > _HINT_: for this part, focus on the wiring of the _address bus lines_.
