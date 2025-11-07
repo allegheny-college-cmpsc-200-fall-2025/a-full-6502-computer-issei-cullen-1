@@ -2,7 +2,7 @@
 
 | Verified by | Date |
 |:------------|:-----|
-|`TODO`|`TODO`|
+|`MS`|`11/7/25`|
 
 ## Speculation
 
